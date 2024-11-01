@@ -1,4 +1,4 @@
-# Project Title
+# Ecommerce-Website Using "MERN STACK"🚀🚀🚀
 
 This project is a full-stack application built with the MERN stack (MongoDB, Express, React, Node.js) and various supporting libraries for functionality and styling. It includes essential backend tools like authentication, cloud storage, and payments, as well as frontend dependencies for animations, UI, and state management.
 
